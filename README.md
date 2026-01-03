@@ -105,6 +105,7 @@ spring.jpa.show-sql=true
 1. Clone the repository
 ```properties
 git clone https://github.com/your-username/social-connect.git
+```
 
 3. Navigate to the project directory
 ```properties
