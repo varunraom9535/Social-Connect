@@ -99,22 +99,32 @@ spring.datasource.password=your_password
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 
+```
 
-🚀 How to Run the Project
+## 🚀 How to Run the Project
 1. Clone the repository
+```properties
 git clone https://github.com/your-username/social-connect.git
 
-2. Navigate to the project directory
+3. Navigate to the project directory
+```properties
 cd social-connect
+```
 
-3. Build the project
+4. Build the project
+```properties
 mvn clean install
+```
 
-4. Run the application
+5. Run the application
+```properties
 mvn spring-boot:run
+```
 
-5. Access the application
+6. Access the application
+```properties
 http://localhost:8080
+```
 
 🧪 Testing Approach
 
@@ -125,4 +135,3 @@ Verified user authentication, post creation, and profile updates
 Backend debugging using logs and database validation
 
 Tested under Agile-based development practices
-```
